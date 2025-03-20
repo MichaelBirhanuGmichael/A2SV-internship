@@ -1,7 +1,6 @@
-
 import 'package:flutter/material.dart';
 import 'services/productManager.dart';
-import 'screens/product_detail_screen.dart'; // Import the detail screen
+import 'screens/product_detail_screen.dart';
 
 void main() {
   runApp(const MyApp());
