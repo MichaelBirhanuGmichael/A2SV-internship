@@ -16,8 +16,4 @@ A simple eCommerce application built using Flutter and Dart. This application al
 - **Flutter UI**: A graphical user interface for managing products.  
 - **CLI**: A command-line interface for managing products from the terminal.  
 
-### OOP Principles  
-The code is organized using Object-Oriented Programming (OOP) principles, including:  
-- Encapsulation  
-- Abstraction  
-- Separation of concerns  
+  
