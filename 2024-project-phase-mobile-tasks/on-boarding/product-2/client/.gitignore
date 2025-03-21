@@ -43,8 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-echo "{lib}" > .gitignore
-echo "{folder_name}" > .gitignore
-git add .
-git commit -m "Ignore all except {folder_name}"
-git push
